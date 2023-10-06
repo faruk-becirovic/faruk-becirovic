@@ -45,27 +45,18 @@ sections:
     content:
       title: Skills
       items:
-        - name: Python
-          description:
-          icon: python
-          icon_pack: fab
         - name: R
-          description: 
+          description: 90%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description:
-          icon: chart-simple
+          description: 100%
+          icon: chart-line
           icon_pack: fas
-        - name: Docker
-          icon: docker
-          icon-pack: fab
-        - name: Data Engineering
-          icon: database
-          icon-pack: fas
-        - name: Data Analysis
-          icon: chart-pie
-          icon-pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
