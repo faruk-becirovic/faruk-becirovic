@@ -1,5 +1,5 @@
 ---
-avatar_filename: https://drive.google.com/file/d/1DEqDTUx7Rz-1paj5K8tJIIAjCy07d3p0/view?usp=sharing
+avatar_filename: me.png
 bio: My interests include application of machine learning and numberical
   analysis in medicine, medical devices and agriculture.
 interests:
