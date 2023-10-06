@@ -6,12 +6,12 @@ draft: false
 authors:
   - admin
   - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: My custom post
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
-date: 2020-12-13T00:00:00Z
+subtitle: Welcome 👋 We know that the very first impressions are important, so
+  we've populated your new site with some initial content to help you get
+  familiar with everything in no time.
+date: 2020-12-13T00:00:00.000Z
 featured: false
 tags:
   - Academic
