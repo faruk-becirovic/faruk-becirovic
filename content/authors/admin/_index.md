@@ -1,5 +1,5 @@
 ---
-avatar_filename: me.png
+avatar_filename: avatar.png
 bio: My interests include application of machine learning and numberical
   analysis in medicine, medical devices and agriculture.
 interests:
