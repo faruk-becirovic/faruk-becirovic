@@ -4,7 +4,7 @@ bio: My interests include application of machine learning and numberical
   analysis in medicine, medical devices and agriculture.
 interests:
   - Artificial Intelligence
-  - ""
+  - Numerical Analysis
 social:
   - icon: envelope
     icon_pack: fas
